@@ -1,0 +1,5 @@
+# Solicitar el nombre al usuario en la consola
+$nombre = Read-Host "Por favor, introduce tu nombre"
+
+# Mostrar el saludo por pantalla
+Write-Host "¡Hola $nombre!"
