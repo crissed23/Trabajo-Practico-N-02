@@ -1,2 +1,2 @@
-# Trabajo-Practico-N-02
+# Trabajo Practico N02
 Trabajo Practico 2 PowerShell
